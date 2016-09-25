@@ -1,6 +1,6 @@
 @font-face {
     font-family: InconsolataLGC;
-    src: url(Inconsolata-LGC.ttf);
+    src: url("../fonts/Inconsolata-LGC.ttf");
 }
 
 html {
